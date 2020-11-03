@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={ryba} className="App-logo" alt="fishk" />
-        <img src={logo} className="App-logo-2" alt="logo" />
+        {/* <img src={logo} className="App-logo-2" alt="logo" /> */}
       </header>
     </div>
   );
